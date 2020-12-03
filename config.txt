@@ -1,0 +1,3 @@
+name=Tomas Bencomo
+save_dir=.
+#save_dir=/Users/tomasbencomo/Documents/lee-lab/notebook/
