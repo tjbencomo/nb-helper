@@ -31,7 +31,7 @@ def new_entry(settings, date=None):
         f.write("# Lab Journal\n")
         f.write(f"**Author:** {settings['name']}\n\n")
         f.write(f"**Date:** {fulldate}\n\n")
-        f.write("## Summary\n")
+        # f.write("## Summary\n")
     return fn
 
 def main():
